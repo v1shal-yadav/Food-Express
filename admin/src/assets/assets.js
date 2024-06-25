@@ -15,4 +15,5 @@ export const assets ={
 }
 
 // export const url = 'http://localhost:4000'
+export const currency = '₹'
 export const url = "https://food-express-backend-13ng.onrender.com"
